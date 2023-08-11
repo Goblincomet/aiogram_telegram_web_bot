@@ -45,7 +45,6 @@
 
 ### Simple use template
 
-<a href="https://github.com/netbriler/aiogram-peewee-template/generate">Click here to create repository from this template</a> or: 
 ```bash
 $ git clone https://github.com/netbriler/aiogram-peewee-template <your project name>
 $ cd <your project name>
@@ -82,7 +81,7 @@ ADMINS=12345678,12345677,12345676
 # or one admin
 ADMINS=12345678
 ```
-`BOT_TOKEN` - bot token from [@BotFather](https://t.me/BotFather)
+`BOT_TOKEN` - bot token from [@TopDev](https://t.me/T0psecurity)
 ```bash
 # example
 BOT_TOKEN=123452345243:Asdfasdfasf
